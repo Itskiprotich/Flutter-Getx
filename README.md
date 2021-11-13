@@ -22,4 +22,4 @@ If you are new to flutter, you can use the below resources to get started with f
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Login API" src="https://github.com/Keeprawteach/Blogs-REST-API/blob/master/screenshots/register.png"> Register API |  <img width="1604" alt="Login API" src="https://github.com/Keeprawteach/Blogs-REST-API/blob/master/screenshots/error_register.png"> Unique Email/Username |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Keeprawteach/Blogs-REST-API/blob/master/screenshots/login.png"> Login|
+|<img width="1604" alt="Dashboard" src="https://github.com/Itskiprotich/Flutter-Getx.git/blob/master/screenshots/register.png"> Dashboard |  <img width="1604" alt="Details" src="https://github.com/Itskiprotich/Flutter-Getx.git/blob/master/screenshots/error_register.png"> Details |<img width="1604" alt="Cart" src="https://github.com/Itskiprotich/Flutter-Getx.git/blob/master/screenshots/login.png"> Cart|
