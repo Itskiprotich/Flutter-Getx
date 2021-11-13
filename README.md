@@ -27,6 +27,6 @@ If you are new to flutter, you can use the below resources to get started with f
 
 ## Author
 
-Kiprotich Japheth
+-Kiprotich Japheth (+254) 724 743 788
 
 
