@@ -23,7 +23,7 @@ class ProductController extends GetxController {
         description: 'Functional and Fashionable.',
         price: 49.00,
         imageUrl:
-        'https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Cavalier-Black-1.jpg?v=1589391819'),
+        'https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Cavalier-Toffee-210402-3.jpg?v=1618424894'),
     Product(
         id: 4,
         title: 'Men\'s Sneakers',
@@ -65,7 +65,7 @@ class ProductController extends GetxController {
         description: 'Functional and Fashionable.',
         price: 49.99,
         imageUrl:
-        'https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Cavalier-Black-1.jpg?v=1589391819'),
+        'https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Legend-BlackMatte-3.4_672x672.jpg?v=1600886623'),
     Product(
         id: 10,
         title: 'Men\'s Sneakers',

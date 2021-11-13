@@ -22,4 +22,4 @@ If you are new to flutter, you can use the below resources to get started with f
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Dashboard" src="https://github.com/Itskiprotich/Flutter-Getx.git/blob/master/screenshots/register.png"> Dashboard |  <img width="1604" alt="Details" src="https://github.com/Itskiprotich/Flutter-Getx.git/blob/master/screenshots/error_register.png"> Details |<img width="1604" alt="Cart" src="https://github.com/Itskiprotich/Flutter-Getx.git/blob/master/screenshots/login.png"> Cart|
+|<img width="1604" alt="Dashboard" src="https://github.com/Itskiprotich/Flutter-Getx.git/blob/master/screenshots/home.jpeg"> Dashboard |  <img width="1604" alt="Details" src="https://github.com/Itskiprotich/Flutter-Getx.git/blob/master/screenshots/detail.jpeg"> Details |<img width="1604" alt="Cart" src="https://github.com/Itskiprotich/Flutter-Getx.git/blob/master/screenshots/cart.jpeg"> Cart|
