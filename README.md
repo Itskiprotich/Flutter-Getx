@@ -23,3 +23,10 @@ If you are new to flutter, you can use the below resources to get started with f
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" height="500" alt="Dashboard" src="https://github.com/Itskiprotich/Flutter-Getx/blob/master/screenshots/home.jpeg"> Dashboard |  <img width="1604"  height="500"  alt="Details" src="https://github.com/Itskiprotich/Flutter-Getx/blob/master/screenshots/detail.jpeg"> Details |<img width="1604"  height="500"  alt="Cart" src="https://github.com/Itskiprotich/Flutter-Getx/blob/master/screenshots/cart.jpeg"> Cart|
+
+
+## Author
+
+Kiprotich Japheth
+
+
